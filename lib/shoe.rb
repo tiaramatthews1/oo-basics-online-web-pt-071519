@@ -39,8 +39,9 @@ def condition
   @condition
 end
 
-def 
+def cobble
   puts "Your Shoe is as good as new!"
+end
 end
 
 
