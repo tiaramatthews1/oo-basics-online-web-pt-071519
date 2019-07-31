@@ -7,7 +7,7 @@ def title
   @title
 end
 
-dee=f author=(author)
+def author=(author)
 @author = author
 end
 end
