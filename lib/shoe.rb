@@ -43,7 +43,12 @@ def cobble
   puts "Your Shoe is as good as new!"
 end
 
-def
+def cobble=(new)
+  @cobble = new
+end
+
+def cobble
+  @coblle
 end
 
 
