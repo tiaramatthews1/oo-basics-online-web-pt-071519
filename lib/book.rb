@@ -6,6 +6,10 @@ def initialize(title)
 def title
   @title
 end
+
+dee=f author=(author)
+@author = author
+end
 end
 
 
