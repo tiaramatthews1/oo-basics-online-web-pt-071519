@@ -32,7 +32,7 @@ def material
 end
 
 def condition
-puts "Your shoe is as good as new!"
+puts "tattered"
 end
 end
 
