@@ -7,6 +7,7 @@ Book.new("And Then There Were None")
 end
 
 def title
+  @title
 end
 
 
