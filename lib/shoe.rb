@@ -1,6 +1,6 @@
 class Shoe
-def initialize(title)
-  @title = title
+def initialize(shoe.new)
+  @shoe = title
   end
 
 def title
