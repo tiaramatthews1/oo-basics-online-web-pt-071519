@@ -1,5 +1,5 @@
 class Shoe
-def initialize(shoe)
+ atrr_accessor :Nike, :
   @shoe
   end
 
